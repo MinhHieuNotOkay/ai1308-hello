@@ -1,2 +1,1 @@
-# ai1308-hello
-exercise ai1308 131126
+# AI1308 Hello Repository
